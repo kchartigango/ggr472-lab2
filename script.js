@@ -2,7 +2,7 @@ mapboxgl.accessToken = 'pk.eyJ1Ijoia2NoZ28iLCJhIjoiY2xzYzl0ZmdqMGV2MDJrc2J0d2QxY
 
 const map = new mapboxgl.Map({
     container: 'my-map',
-    style: 'mapbox://styles/kchgo/clsupzcy5003k01p4749laxdc',
+    style: 'mapbox://styles/mapbox/outdoors-v12',
     center: [-79.2, 43.8],
     zoom: 9,
 });
@@ -20,7 +20,7 @@ map.on('load', () => {
         'type': 'circle',
         'source': 'restaurants-data',
         'paint': {
-            'circle-radius': 7,
+            'circle-radius': 8,
             'circle-color': '#b175e8'
         }
     });
