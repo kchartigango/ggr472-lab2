@@ -1,1 +1,175 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Queen's Park","marker-color":"#014421","marker-size":"medium","marker-symbol":"circle"},"geometry":{"coordinates":[-79.39242520760122,43.66448483121738],"type":"Point"},"id":0},{"type":"Feature","properties":{"name":"High Park","marker-color":"#014421","marker-size":"medium","marker-symbol":"circle"},"geometry":{"coordinates":[-79.46373642525076,43.64642219747148],"type":"Point"},"id":1},{"type":"Feature","properties":{"name":"Scarborough Bluffs Park","marker-color":"#014421","marker-size":"medium","marker-symbol":"circle"},"geometry":{"coordinates":[-79.24175290682459,43.70368875608236],"type":"Point"},"id":2},{"type":"Feature","properties":{"name":"Toronto Music Garden","marker-color":"#014421","marker-size":"medium","marker-symbol":"circle"},"geometry":{"coordinates":[-79.39391690801773,43.63691752827975],"type":"Point"},"id":3},{"type":"Feature","properties":{"name":"Woodbine Park","marker-color":"#014421","marker-size":"medium","marker-symbol":"circle"},"geometry":{"coordinates":[-79.31507727407946,43.66482966760614],"type":"Point"},"id":4},{"type":"Feature","properties":{"name":"Berczy Park","marker-color":"#014421","marker-size":"medium","marker-symbol":"circle"},"geometry":{"coordinates":[-79.37515532907476,43.64803293138925],"type":"Point"},"id":5},{"type":"Feature","properties":{"name":"Humber Bay Park","marker-color":"#014421","marker-size":"medium","marker-symbol":"circle"},"geometry":{"coordinates":[-79.47813679792333,43.62143919523416],"type":"Point"},"id":6},{"type":"Feature","properties":{"name":"Trinity Bellwoods Park","marker-color":"#014421","marker-size":"medium","marker-symbol":"circle"},"geometry":{"coordinates":[-79.41396190623489,43.647420472720256],"type":"Point"},"id":7},{"type":"Feature","properties":{"name":"Sunnyside Park","marker-color":"#014421","marker-size":"medium","marker-symbol":"circle"},"geometry":{"coordinates":[-79.46120663567113,43.636654470690075],"type":"Point"},"id":8},{"type":"Feature","properties":{"name":"Rosetta McLain Gardens","marker-color":"#014421","marker-size":"medium","marker-symbol":"circle"},"geometry":{"coordinates":[-79.2557336358229,43.69698797346123],"type":"Point"},"id":9}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Queen's Park",
+                "marker-color": "#014421",
+                "marker-size": "medium",
+                "marker-symbol": "circle"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.39242520760122,
+                    43.66448483121738
+                ],
+                "type": "Point"
+            },
+            "id": 0
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "High Park",
+                "marker-color": "#014421",
+                "marker-size": "medium",
+                "marker-symbol": "circle"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.46373642525076,
+                    43.64642219747148
+                ],
+                "type": "Point"
+            },
+            "id": 1
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Scarborough Bluffs Park",
+                "marker-color": "#014421",
+                "marker-size": "medium",
+                "marker-symbol": "circle"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.24175290682459,
+                    43.70368875608236
+                ],
+                "type": "Point"
+            },
+            "id": 2
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Toronto Music Garden",
+                "marker-color": "#014421",
+                "marker-size": "medium",
+                "marker-symbol": "circle"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.39391690801773,
+                    43.63691752827975
+                ],
+                "type": "Point"
+            },
+            "id": 3
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Woodbine Park",
+                "marker-color": "#014421",
+                "marker-size": "medium",
+                "marker-symbol": "circle"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.31507727407946,
+                    43.66482966760614
+                ],
+                "type": "Point"
+            },
+            "id": 4
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Berczy Park",
+                "marker-color": "#014421",
+                "marker-size": "medium",
+                "marker-symbol": "circle"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.37515532907476,
+                    43.64803293138925
+                ],
+                "type": "Point"
+            },
+            "id": 5
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Humber Bay Park",
+                "marker-color": "#014421",
+                "marker-size": "medium",
+                "marker-symbol": "circle"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.47813679792333,
+                    43.62143919523416
+                ],
+                "type": "Point"
+            },
+            "id": 6
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trinity Bellwoods Park",
+                "marker-color": "#014421",
+                "marker-size": "medium",
+                "marker-symbol": "circle"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.41396190623489,
+                    43.647420472720256
+                ],
+                "type": "Point"
+            },
+            "id": 7
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sunnyside Park",
+                "marker-color": "#014421",
+                "marker-size": "medium",
+                "marker-symbol": "circle"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.46120663567113,
+                    43.636654470690075
+                ],
+                "type": "Point"
+            },
+            "id": 8
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rosetta McLain Gardens",
+                "marker-color": "#014421",
+                "marker-size": "medium",
+                "marker-symbol": "circle"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.2557336358229,
+                    43.69698797346123
+                ],
+                "type": "Point"
+            },
+            "id": 9
+        }
+    ]
+}
