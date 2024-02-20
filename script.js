@@ -24,4 +24,4 @@ map.on('load', () => {
             'circle-color': '#b175e8'
         }
     });
-})
+});
