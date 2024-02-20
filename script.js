@@ -2,7 +2,7 @@ mapboxgl.accessToken = 'pk.eyJ1Ijoia2NoZ28iLCJhIjoiY2xzYzl0ZmdqMGV2MDJrc2J0d2QxY
 
 const map = new mapboxgl.Map({
     container: 'my-map',
-    style: 'mapbox://styles/kchgo/clsupzcy5003k01p4749laxdc',
+    style: 'mapbox://styles/kchgo/clsupzcy5003k01p4749laxdc', //My custom style for the web map layer
     center: [-79.35, 43.7],
     zoom: 10,
 });
@@ -10,6 +10,7 @@ const map = new mapboxgl.Map({
 map.on('load', () => {
 
     //Adding a data source containing GeoJSON data and visualizing it as a layer.
+    //Here, I am adding a Sports Shop point near a cluster of parks.
     map.addSource('sport-data', {
         type: 'geojson',
         data: {
